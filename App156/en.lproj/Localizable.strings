@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  App156
+
+  Created by Вячеслав on 8/7/23.
+  
+*/
+
+
+"Portfolio" = "Portfolio";
+"All Skins" = "All Skins";
+"News" = "News";
+"Settings" = "Settings";
+"Game" = "Game";
+"Winner" = "Winner";
+"Amount: " = "Amount: ";
+"Total Price: " = "Total Price: ";
+"Add to Portfolio" = "Add to Portfolio";
+"Settings" = "Settings";
+"Usage Policy" = "Usage Policy";
+"Rate Us" = "Rate Us";
+"Random Picking Game" = "Random Picking Game";
+"Drop a random skin into a random group of yours" = "Drop a random skin into a random group of yours";
+"The comments are empty" = "The comments are empty";
+"No any comment on this post" = "No any comment on this post";
+"Favorites" = "Favorites";
+"Favorites are empty" = "Favorites are empty";
+"Add the news from your group here" = "Add the news from your group here";
+"News" = "News";
+"The news are empty" = "The news are empty";
+"Now our platform does not have any news" = "Now our platform does not have any news";
+"Add the skins from your group here" = "Add the skins from your group here";
+"Add" = "Add";
+"Added" = "Added";
+"All Skins" = "All Skins";
+"All skins will be here" = "All skins will be here";
+"Now our platform does not have any skin" = "Now our platform does not have any skin";
+"Portfolio" = "Portfolio";
+"Statistics" = "Statistics";
+"Balance" = "Balance";
+"Skins" = "Skins";
+"Favorites" = "Favorites";
+"Your skins will be here" = "Your skins will be here";
+"Add your first group by clicking the icon above to start adding skins" = "Add your first group by clicking the icon above to start adding skins";
+
+"Test your chances of success" = "Test your chances of success";
+"Your choice means a lot" = "Your choice means a lot";
+
+"Convenient inventory" = "Convenient inventory";
+"Take what's yours" = "Take what's yours";
+
+"Leave your opinion" = "Leave your opinion";
+"Rate us in the App Store, it will help us make it even better" = "Rate us in the App Store, it will help us make it even better";
+
+"Don't miss anything important" = "Don't miss anything important";
+"Get the most up-to-date information" = "Get the most up-to-date information";
+
+
+
+"All in one place" = "All in one place";
+"Keep track of your investment in KS GO skins in our app" = "Keep track of your investment in KS GO skins in our app";
+
+"Skin Library" = "Skin Library";
+"Add the skins you want or create custom skins" = "Add the skins you want or create custom skins";
+
+"Trending News" = "Trending News";
+"All the latest events from the world of cs go and cybersport" = "All the latest events from the world of cs go and cybersport";
+
+"Next" = "Next";
+
+"Enable Notifications" = "Enable Notifications";

@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  App156
+
+  Created by Вячеслав on 8/7/23.
+  
+*/
+
+"Portfolio" = "Портфолио";
+"All Skins" = "Все Скины";
+"News" = "Новости";
+"Settings" = "Настройки";
+"Game" = "Игра";
+"Winner" = "Победитель";
+"Amount: " = "Сумма: ";
+"Total Price: " = "Общая стоимость: ";
+"Add to Portfolio" = "Добавить в Портфолио";
+"Settings" = "Настройки";
+"Usage Policy" = "Политика использования";
+"Rate Us" = "Оцените нас";
+"Random Picking Game" = "Игра на случайный выбор";
+"Drop a random skin into a random group of yours" = "Выберите случайный скин и добавьте его в случайную группу";
+"The comments are empty" = "Комментарии отсутствуют";
+"No any comment on this post" = "Ни одного комментария к этому посту";
+"Favorites" = "Избранное";
+"Favorites are empty" = "Избранное пусто";
+"Add the news from your group here" = "Добавьте новости из вашей группы здесь";
+"News" = "Новости";
+"The news are empty" = "Новости отсутствуют";
+"Now our platform does not have any news" = "На нашей платформе пока нет новостей";
+"Add the skins from your group here" = "Добавьте скины из вашей группы здесь";
+"Add" = "Добавить";
+"Added" = "Добавлено";
+"All Skins" = "Все Скины";
+"All skins will be here" = "Здесь будут все скины";
+"Now our platform does not have any skin" = "На нашей платформе пока нет скинов";
+"Portfolio" = "Портфолио";
+"Statistics" = "Статистика";
+"Balance" = "Баланс";
+"Skins" = "Скины";
+"Favorites" = "Избранное";
+"Your skins will be here" = "Ваши скины будут здесь";
+"Add your first group by clicking the icon above to start adding skins" = "Добавьте свою первую группу, нажав на иконку выше, чтобы начать добавлять скины";
+
+"Test your chances of success" = "Проверьте свои шансы на успех";
+"Your choice means a lot" = "Ваш выбор много значит";
+
+"Convenient inventory" = "Удобный инвентарь";
+"Take what's yours" = "Возьмите то, что ваше";
+
+"Leave your opinion" = "Оставьте свое мнение";
+"Rate us in the App Store, it will help us make it even better" = "Оцените нас в App Store, это поможет сделать наше приложение еще лучше";
+
+"Don't miss anything important" = "Не пропустите ничего важного";
+"Get the most up-to-date information" = "Получайте самую актуальную информацию";
+
+"All in one place" = "Все в одном месте";
+"Keep track of your investment in KS GO skins in our app" = "Отслеживайте ваши инвестиции в скины KS GO в нашем приложении";
+
+"Skin Library" = "Библиотека Скинов";
+"Add the skins you want or create custom skins" = "Добавляйте скины, которые вы хотите, или создайте собственные скины";
+
+"Trending News" = "Актуальные Новости";
+"All the latest events from the world of cs go and cybersport" = "Все последние события из мира cs go и киберспорта";
+
+"Next" = "Далее";
+
+"Enable Notifications" = "Включить Уведомления";
